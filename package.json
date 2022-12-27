@@ -1,6 +1,6 @@
 {
     "name": "react-vite-range-datepicker",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "range datepicker for vite (react)",
     "main": "dist/index.cjs.js",
     "module": "dist/index.esm.js",
